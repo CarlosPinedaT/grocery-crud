@@ -11,7 +11,7 @@
 	$lang['list_zero_entries']		= 'Mostrando 0 a 0 de 0 registros';
 	$lang['list_search'] 			= 'Buscar';
 	$lang['list_search_all'] 		= 'Buscar todo';
-	$lang['list_clear_filtering'] 	= 'Resetear filtro';
+	$lang['list_clear_filtering'] 	= 'Quitar filtro';
 	$lang['list_delete'] 			= 'Eliminar';
 	$lang['list_edit'] 				= 'Editar';
 	$lang['list_paging_first'] 		= 'Primero';
