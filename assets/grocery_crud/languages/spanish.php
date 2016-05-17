@@ -11,7 +11,7 @@
 	$lang['list_zero_entries']		= 'Mostrando 0 a 0 de 0 registros';
 	$lang['list_search'] 			= 'Buscar';
 	$lang['list_search_all'] 		= 'Buscar todo';
-	$lang['list_clear_filtering'] 	= 'Resetear filtro';
+	$lang['list_clear_filtering'] 	= 'Quitar filtro';
 	$lang['list_delete'] 			= 'Eliminar';
 	$lang['list_edit'] 				= 'Editar';
 	$lang['list_paging_first'] 		= 'Primero';
@@ -32,7 +32,7 @@
 	$lang['insert_success_message'] = 'Sus datos han sido guardados correctamente.';
 	$lang['form_or']				= 'o';
 	$lang['form_save'] 				= 'Guardar';
-	$lang['form_insert_loading'] 	= 'Cargando, guardando los datos...';
+	$lang['form_insert_loading'] 	= 'Un momento estamos guardando sus datos...';
 
 	$lang['form_upload_a_file'] 	= 'Subir un archivo';
 	$lang['form_upload_delete'] 	= 'eliminar';
@@ -44,7 +44,7 @@
 	/* Javascript messages */
 	$lang['alert_add_form']			= 'Los datos que intenta añadir no se han guardado.\\n¿Esta seguro que quiere volver a la lista?';
 	$lang['alert_edit_form']		= 'Los datos que intenta actualizar no se han guardado.\\n¿Esta seguro que quiere volver a la lista?';
-	$lang['alert_delete']			= '¿Esta seguro que quiere eliminar este registro?';
+	$lang['alert_delete']			= '¿Está seguro que quiere eliminar este registro?';
 
 	$lang['insert_error']			= 'Ocurrio un error al añadir.';
 	$lang['update_error']			= 'Ocurrio un error al actualizar.';
@@ -85,5 +85,5 @@
 	$lang['ui_year'] = 'yyyy';
 
 	/* Added in version 1.5.2 */
-	$lang['list_more'] = 'More';
+	$lang['list_more'] = 'Ver más';
 
