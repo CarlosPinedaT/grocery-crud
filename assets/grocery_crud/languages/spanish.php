@@ -11,7 +11,7 @@
 	$lang['list_zero_entries']		= 'Mostrando 0 a 0 de 0 registros';
 	$lang['list_search'] 			= 'Buscar';
 	$lang['list_search_all'] 		= 'Buscar todo';
-	$lang['list_clear_filtering'] 	= 'Resetear filtro';
+	$lang['list_clear_filtering'] 	= 'Limpiar filtro';
 	$lang['list_delete'] 			= 'Eliminar';
 	$lang['list_edit'] 				= 'Editar';
 	$lang['list_paging_first'] 		= 'Primero';
@@ -91,7 +91,7 @@
 	/* Added in version 1.5.8 */
 	$lang['alert_delete_multiple'] = '¿Estás seguro que deseas eliminar esos {items_amount} elementos?';
 
-	$lang['alert_delete_multiple_one'] = '¿Estás seguro que deseas eliminar ese 1 elemento?';
+	$lang['alert_delete_multiple_one'] = '¿Estás seguro que deseas eliminar este elemento?';
 
 
 
